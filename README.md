@@ -1,2 +1,3 @@
 # task-2
 This is my 2nd task of sql developer internship.
+The provided SQL script serves as a practical demonstration for "Task 2," detailing essential database management techniques. It guides users through creating a `company` database and various `employe` tables, then populates them by inserting individual records and importing data from a CSV file. Crucially, the script illustrates how to manage data integrity by handling missing values (using `NULL` and `NOT NULL` constraints) and demonstrates how to precisely modify and remove existing employee records through `UPDATE` and `DELETE` statements, ensuring a well-organized and consistent dataset.
